@@ -2,6 +2,8 @@ import models.Musica;
 import musicPlayer.Catalogo;
 import musicPlayer.Loader;
 
+//Refatoração Completa
+
 public class Main {
     public static void main(String[] args) {
         String diretorioMusicas = "src/main/resources";
